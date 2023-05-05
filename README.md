@@ -8,6 +8,7 @@ or Mr. Robot, headbanging non-stop and listening to the most obscure musicians.
 I also walk and run a lot. My main hobbies are reading and web-surfing. <br> Most of the time I appear plain, but trust me, I'm a good person.
 <br>
 I mostly code in Python, Rust and Coq. My work stack is C# but I don't like it.<br>
-But in the end of the day, I'm a student of theoretical CS, and therefore I mostly code in Coq.
+But in the end of the day, I'm a student of theoretical CS, and therefore I mostly code in Coq.<br>
+Update: I'm working as a Back-end developer, and am aspiring to become a software engineer and cybersecurity geek.
 </p>
 
