@@ -1,6 +1,5 @@
 <h3 align=center>Hello, Nerdanel here.</h3>
 <br>
-<br>
 <p align=center>
 The Computer Scientist and Translator with an interest in art who isn't a nerd.
 <br>
